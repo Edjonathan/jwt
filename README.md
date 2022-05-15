@@ -1,2 +1,2 @@
 # jwt
-Exemples bv how to create and use JWT
+Examples of how to create and use JWT
